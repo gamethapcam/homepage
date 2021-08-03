@@ -119,7 +119,7 @@ body {
 /*PROGRESS BAR*/
 
 .progress-bar {
-    background: #333333;
+    background: red;
     color: #ffffff;
 }
 
