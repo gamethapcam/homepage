@@ -1,3 +1,4 @@
 {
-  "domain":"http://localhost.com"
+  "domain":"http://localhost.com",
+  "cms-domain":"http://localhost.com"
 }
